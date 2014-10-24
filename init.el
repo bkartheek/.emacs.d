@@ -15,7 +15,9 @@
 (column-number-mode t)
 (set-fringe-style -1)
 (tooltip-mode -1)
+(custom-set-variables '(linum-format (quote "%d  ")))
 (global-linum-mode 1) ; display line numbers in margin. New in Emacs 23
+
 
 (add-to-list 'default-frame-alist '(font . "DejaVu Sans Mono-12"))
  
