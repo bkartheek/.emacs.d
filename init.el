@@ -1,4 +1,5 @@
-
+;; Kartheek Bhupathiraju
+;; Collection of Emacs Libraries
 ;;emacs configuration
 (push "/usr/local/bin" exec-path)
 (setq make-backup-files nil)
